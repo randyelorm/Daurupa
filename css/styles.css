@@ -5,6 +5,7 @@
 
 .navbar{
 background-color:white !important;
+margin-bottom: 0px !important;
 
 
 }
@@ -67,3 +68,105 @@ font-weight: bold;
  
    
 }
+
+
+
+
+
+
+ /* main row */
+
+ .main_row_1 {
+     margin-top: 0px !important;
+     background-color:#f7fbfd;
+ }
+
+ .main_row_1 > .container {
+margin-top: 40px;
+
+ }
+
+ .image1 {
+     height: 70vh !important;
+  
+ }
+
+ .main_text {
+     font-size: 6rem;
+     font-weight: bold;
+ 
+ }
+
+ .main_text2 {
+     font-size: 25px;
+ }
+
+ .container > button {
+    width:30%;
+    color:black;
+    font-weight: bold;
+ }
+ 
+
+.buy_btn {
+    background-color: #ff781f !important;
+  
+}
+
+
+
+
+
+
+.packages_row {
+    margin-top: 0px !important;
+    background-color:#f7fbfd;
+}
+
+.packages_container {
+    margin-top: 40px;
+}
+
+.col-lg-offset-2 > .col-lg-3 {
+   
+    margin-left: 45px;
+}
+
+.col-lg-offset-2 > .col-lg-3:hover {
+    transform: scale(1.075);
+    transition: 0.3s ease;
+    cursor: pointer;
+   
+}
+
+
+
+
+.thum_img {
+    height:5rem;
+}
+
+
+.buy{
+
+    background-color: #ff781f !important;
+    color:black !important;
+
+}
+
+
+
+
+.footer_text {
+    position: absolute;
+    margin-top: 90px;
+    font-size: 4rem;
+    font-weight: bold;
+
+}
+
+
+.footer {
+    margin-top: 40px;
+    
+     }
