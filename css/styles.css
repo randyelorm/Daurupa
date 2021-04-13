@@ -1,0 +1,69 @@
+.nav_container_fluid {
+    padding:0px;
+}
+
+
+.navbar{
+background-color:white !important;
+
+
+}
+.col-lg-12 {
+    padding:0px !important;
+ 
+  
+}
+
+.inner_nav_container{
+    background-color:white;
+    height:80px;
+   
+   
+    
+}
+
+.navbar-brand {
+    margin-top: 0px;
+    position: relative;
+   
+}
+
+.navbar-brand > img {
+    height:50px;
+    display: inline !important;
+
+}
+
+.navbar-brand > p {
+position: absolute;
+left:70px;
+top:24px;
+color:black;
+font-weight: bold;
+
+}
+
+
+.navbar-brand > p > span {
+    color:#ff781f;
+    font-size: 15px;
+}
+
+
+
+.nav > li {
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.nav > button {
+    margin-top: 21px;
+    background-color:#ff781f; 
+    color:black;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 17px;
+ 
+   
+}
